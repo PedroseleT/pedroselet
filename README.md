@@ -2,7 +2,7 @@
 
 **`Desenvolvedor BackEnd em Formação`**
 
-Tenho 19 anos, sou de Campinas/SP e atualmente estou no 3º semestre de Análise e Desenvolvimento de Sistemas na UNIP. Entrei na área porque sempre fui fascinado por como sistemas se conectam, funcionam e impactam a vida das pessoas. Hoje, meu foco é evoluir como desenvolvedor backend, com interesse crescente em machine learning e no uso de tecnologia para resolver problemas reais.
+Olá! Tenho 19 anos, sou de Campinas/SP e atualmente estou no 3º semestre de Análise e Desenvolvimento de Sistemas na UNIP. Entrei na área porque sempre fui fascinado por como sistemas se conectam, funcionam e impactam a vida das pessoas. Hoje, meu foco é evoluir como desenvolvedor backend, com interesse crescente em machine learning e no uso de tecnologia para resolver problemas reais.
 
 <p align="left">
     <a href="https://github.com/PedroseleT?tab=followers">
