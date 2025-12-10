@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Pedro Teles
+# 👨🏼‍💻 Pedro Teles
 
 **`Desenvolvedor BackEnd em Formação`**
 
