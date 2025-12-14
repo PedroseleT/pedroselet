@@ -1,0 +1,56 @@
+{
+  "pedro": {
+    "senha": "2511",
+    "ativos": [
+      {
+        "nome": "ivvb11",
+        "tipo": "etf",
+        "quantidade": 10,
+        "preco_medio": 50.0
+      },
+      {
+        "nome": "btc",
+        "tipo": "cripto",
+        "quantidade": 1,
+        "preco_medio": 100.0
+      }
+    ],
+    "extrato": [
+      {
+        "tipo": "compra",
+        "ativo": "ivvb11",
+        "quantidade": 10,
+        "preco": 50.0
+      },
+      {
+        "tipo": "compra",
+        "ativo": "ivvb11",
+        "quantidade": 10,
+        "preco": 50.0
+      },
+      {
+        "tipo": "venda",
+        "ativo": "ivvb11",
+        "quantidade": 5
+      },
+      {
+        "tipo": "venda",
+        "ativo": "ivvb11",
+        "quantidade": 5,
+        "preco": 30,
+        "resultado": -100.0
+      },
+      {
+        "tipo": "compra",
+        "ativo": "btc",
+        "quantidade": 1,
+        "preco": 100.0
+      }
+    ]
+  },
+  "teles": {
+    "senha": "123",
+    "ativos": [],
+    "extrato": []
+  }
+}
