@@ -1,0 +1,14 @@
+{
+  "teste": {
+    "senha": "123",
+    "ativos": [
+      {
+        "nome": "ivvb11",
+        "tipo": "etf",
+        "quantidade": 0,
+        "preco_medio": 0
+      }
+    ],
+    "extrato": []
+  }
+}
